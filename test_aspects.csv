@@ -1,0 +1,243 @@
+review_id,sentence_id,split,text,target,target_from,target_to,aspect_category,polarity,opinion_phrase,opinion_phrase_from,opinion_phrase_to
+1207,1207: 4,test,We had a room across from reception and didn ' t have any problems with noise .,room,9,12,ROOMS#COMFORT,Positive,didn't have any problems with noise,40,77
+1207,1207: 5,test,Really good breakfast to start a full day in Venice !,breakfast,12,20,FOOD_DRINKS#QUALITY,Positive,Really good,0,10
+1385,1385: 0,test,"Great hotel in top location managed to get this hotel at a great price but regardless it is a really nice hotel with all the amenities you would expect from a 4 * hotel . bit twin room , good room service . breakfast is exp",hotel,6,10,HOTEL#GENERAL,Positive,Great,0,4
+1385,1385: 0,test,"Great hotel in top location managed to get this hotel at a great price but regardless it is a really nice hotel with all the amenities you would expect from a 4 * hotel . bit twin room , good room service . breakfast is exp",location,19,26,LOCATION#GENERAL,Positive,top,15,17
+1385,1385: 0,test,"Great hotel in top location managed to get this hotel at a great price but regardless it is a really nice hotel with all the amenities you would expect from a 4 * hotel . bit twin room , good room service . breakfast is exp",hotel,6,10,HOTEL#PRICES,Positive,great price,59,69
+1385,1385: 0,test,"Great hotel in top location managed to get this hotel at a great price but regardless it is a really nice hotel with all the amenities you would expect from a 4 * hotel . bit twin room , good room service . breakfast is exp",hotel,6,10,HOTEL#GENERAL,Positive,really nice,94,104
+1385,1385: 0,test,"Great hotel in top location managed to get this hotel at a great price but regardless it is a really nice hotel with all the amenities you would expect from a 4 * hotel . bit twin room , good room service . breakfast is exp",room,180,184,ROOMS#GENERAL,Positive,bit twin,171,178
+1385,1385: 0,test,"Great hotel in top location managed to get this hotel at a great price but regardless it is a really nice hotel with all the amenities you would expect from a 4 * hotel . bit twin room , good room service . breakfast is exp",room service,192,205,SERVICE#GENERAL,Positive,good,187,190
+1385,1385: 0,test,"Great hotel in top location managed to get this hotel at a great price but regardless it is a really nice hotel with all the amenities you would expect from a 4 * hotel . bit twin room , good room service . breakfast is exp",breakfast,207,215,FOOD_DRINKS#QUALITY,Positive,exp,220,222
+1385,1385: 3,test,I would highly recommend this hotel and this area Leidesplein,hotel,30,34,HOTEL#GENERAL,Positive,highly recommend,8,23
+1387,1387: 0,test,Loved the Pelham !,Pelham,10,15,HOTEL#GENERAL,Positive,Loved,0,4
+1387,1387: 1,test,The staff was excellant !,staff,4,8,SERVICE#GENERAL,Positive,excellant,14,22
+1387,1387: 2,test,"The staff was friendly and helpful , especially Lakiesha Wilson !",staff,4,8,SERVICE#GENERAL,Positive,friendly and helpful,14,33
+1387,1387: 2,test,"The staff was friendly and helpful , especially Lakiesha Wilson !",Lakiesha Wilson,48,62,SERVICE#GENERAL,Positive,friendly and helpful,14,33
+1387,1387: 3,test,The rooms are beautiful and the hotel is close to all of the hot spots in New Orleans !,rooms,4,8,ROOMS#DESIGN_FEATURES,Positive,beautiful,14,22
+1387,1387: 3,test,The rooms are beautiful and the hotel is close to all of the hot spots in New Orleans !,hotel,32,36,LOCATION#GENERAL,Positive,close to all of the hot spots,41,69
+1387,1387: 4,test,I ' d stay there again in a heartbeat !,NULL,39,39,HOTEL#GENERAL,Positive,stay there again,6,21
+1387,1387: 5,test,Loved it !  !  !,NULL,16,16,HOTEL#GENERAL,Positive,Loved,0,4
+1371,1371: 0,test,Uncomfortable Beds !,Beds,14,17,ROOM_AMENITIES#COMFORT,Negative,Uncomfortable,0,12
+1371,1371: 1,test,The hotel has a convenient location but it ends there .,hotel,4,8,LOCATION#GENERAL,Positive,convenient location,16,34
+1371,1371: 2,test,Concierge were not too helpful getting us a taxi .  .  . which was took ages to arrive even if you book in advance .,Concierge,0,8,SERVICE#GENERAL,Negative,not too helpful,15,29
+1371,1371: 3,test,The room was nice but the beds were too soft it was so uncomfortable .,room,4,7,ROOMS#GENERAL,Positive,nice,13,16
+1371,1371: 3,test,The room was nice but the beds were too soft it was so uncomfortable .,beds,26,29,ROOM_AMENITIES#QUALITY,Negative,too soft,36,43
+1371,1371: 3,test,The room was nice but the beds were too soft it was so uncomfortable .,beds,26,29,ROOM_AMENITIES#COMFORT,Negative,so uncomfortable,52,67
+1371,1371: 4,test,You will not get a good night ' s sleep here .,NULL,46,46,ROOMS#COMFORT,Negative,not get a good night's sleep,9,38
+1283,1283: 0,test,Most comfortable beds ever !,beds,17,20,ROOM_AMENITIES#COMFORT,Positive,Most comfortable,0,15
+1283,1283: 1,test,The hotel was very beautiful and the service was impeccable .,hotel,4,8,HOTEL#DESIGN_FEATURES,Positive,very beautiful,14,27
+1283,1283: 1,test,The hotel was very beautiful and the service was impeccable .,service,37,43,SERVICE#GENERAL,Positive,impeccable,49,58
+1283,1283: 2,test,The rooms were relatively spacious for being in downtown San Fran .,rooms,4,8,ROOMS#DESIGN_FEATURES,Positive,relatively spacious,15,33
+1283,1283: 3,test,"Most of all though , the beds were like sleeping on a cloud .",beds,25,28,ROOM_AMENITIES#COMFORT,Positive,like sleeping on a cloud,35,58
+1283,1283: 4,test,They were extremely comfortable so much so that I almost over slept and missed my seminar .,NULL,91,91,ROOM_AMENITIES#COMFORT,Positive,extremely comfortable,10,30
+1283,1283: 5,test,All in all I would definitely recommend this hotel .,hotel,45,49,HOTEL#GENERAL,Positive,definitely recommend,19,38
+1394,1394: 0,test,"Location , Location , Location We enjoyed a 3 day stay at the Parc 55 !",the Parc 55,58,69,HOTEL#GENERAL,Positive,enjoyed,34,40
+1394,1394: 1,test,"The location is the best because of the proximity to BART ( across the street )  , and the cable cars ( 1 block away )  .",location,4,11,LOCATION#GENERAL,Positive,best,20,23
+1394,1394: 2,test,"Westfield Shopping Center is located directly across the street ( Nordstroms , Bloomingdale , great food court too )  . The service and the rooms were excellent and we would highly recommend this hotel to anyone staying in San Francisco that would like to be close to the shopping and public transportation .",service,124,130,SERVICE#GENERAL,Positive,excellent,151,159
+1394,1394: 2,test,"Westfield Shopping Center is located directly across the street ( Nordstroms , Bloomingdale , great food court too )  . The service and the rooms were excellent and we would highly recommend this hotel to anyone staying in San Francisco that would like to be close to the shopping and public transportation .",rooms,140,144,ROOMS#GENERAL,Positive,excellent,151,159
+1394,1394: 2,test,"Westfield Shopping Center is located directly across the street ( Nordstroms , Bloomingdale , great food court too )  . The service and the rooms were excellent and we would highly recommend this hotel to anyone staying in San Francisco that would like to be close to the shopping and public transportation .",hotel,196,200,HOTEL#GENERAL,Positive,highly recommend,174,189
+1394,1394: 3,test,"It is right on Market Street , and is close to Chinatown .",NULL,58,58,LOCATION#GENERAL,Positive,close to Chinatown,38,55
+1394,1394: 3,test,"It is right on Market Street , and is close to Chinatown .",NULL,58,58,LOCATION#GENERAL,Positive,right on Market Street,6,27
+1394,1394: 4,test,"Parking is a little pricey at $ 40 for overnight ; however , parking is at a premium at this location .",Parking,0,6,FACILITIES#PRICES,Negative,little pricey at $40 for overnight,13,47
+1394,1394: 5,test,"We found great rates for this hotel on Expedia ; however , I would recommend that you check out their website ( Parc 55 ) first because they have several special package rates .",hotel,30,34,HOTEL#PRICES,Positive,great rates,9,19
+1279,1279: 0,test,Great Location,Location,6,13,LOCATION#GENERAL,Positive,Great,0,4
+1279,1279: 1,test,My wife and I stayed here for 3 nights and had a great stay .,NULL,61,61,HOTEL#GENERAL,Positive,had a great stay,43,58
+1279,1279: 2,test,"The hotel has a great location , is easy to get to from the airport ( trainstraight from CDG stops about 300 metres from the hotel )  , the rooms clean and the staff very helpful .",location,22,29,LOCATION#GENERAL,Positive,great,16,20
+1279,1279: 2,test,"The hotel has a great location , is easy to get to from the airport ( trainstraight from CDG stops about 300 metres from the hotel )  , the rooms clean and the staff very helpful .",location,22,29,LOCATION#GENERAL,Positive,easy to get to from the airport,36,66
+1279,1279: 2,test,"The hotel has a great location , is easy to get to from the airport ( trainstraight from CDG stops about 300 metres from the hotel )  , the rooms clean and the staff very helpful .",rooms,140,144,ROOMS#CLEANLINESS,Positive,clean,146,150
+1279,1279: 2,test,"The hotel has a great location , is easy to get to from the airport ( trainstraight from CDG stops about 300 metres from the hotel )  , the rooms clean and the staff very helpful .",staff,160,164,SERVICE#GENERAL,Positive,very helpful,166,178
+1279,1279: 3,test,"Only downside was that the rooms were small , but you did have enough room to move around",rooms,27,31,ROOMS#DESIGN_FEATURES,Negative,small,38,42
+1279,1279: 3,test,"Only downside was that the rooms were small , but you did have enough room to move around",rooms,27,31,ROOMS#DESIGN_FEATURES,Positive,did have enough room to move around,54,88
+1416,1416: 0,test,Excellent in all areas .,NULL,24,24,HOTEL#GENERAL,Positive,Excellent,0,8
+1416,1416: 1,test,We stayed at the Lenox for 4 nights and were treated like special guest through out our stay .,the Lenox,13,21,SERVICE#GENERAL,Positive,treated like special guest,45,70
+1416,1416: 2,test,The room was spacious and elegant and their committment to the environment was impressive .,room,4,7,ROOMS#DESIGN_FEATURES,Positive,spacious,13,20
+1416,1416: 2,test,The room was spacious and elegant and their committment to the environment was impressive .,room,4,7,ROOMS#GENERAL,Positive,elegant,26,32
+1416,1416: 2,test,The room was spacious and elegant and their committment to the environment was impressive .,room,4,7,ROOMS#GENERAL,Positive,environment was impressive,63,88
+1416,1416: 3,test,There was a filtered water access in the hall so need for buying bottled water .,NULL,80,80,FACILITIES#GENERAL,Neutral,need for buying bottled water,49,77
+1416,1416: 4,test,It was a special occasion and when they found out they sent wine and cheese to our room .,NULL,89,89,SERVICE#GENERAL,Positive,sent wine and cheese to our room,55,86
+1416,1416: 5,test,I will definitely stay there the next time I return to Boston .,NULL,63,63,HOTEL#GENERAL,Positive,definitely stay there the next time,7,41
+1220,1220: 0,test,"Hotel Nadia Hotel Nadia is lovely - the staff are very friendly and helpful and the rooms are clean ( as a family , we had the ' quad ' which was a bit of a squeeze but the beds were very comfortable and plenty of cupboard space )  .",Hotel Nadia,0,10,HOTEL#GENERAL,Positive,lovely,27,32
+1220,1220: 0,test,"Hotel Nadia Hotel Nadia is lovely - the staff are very friendly and helpful and the rooms are clean ( as a family , we had the ' quad ' which was a bit of a squeeze but the beds were very comfortable and plenty of cupboard space )  .",staff,40,44,SERVICE#GENERAL,Positive,very friendly,50,62
+1220,1220: 0,test,"Hotel Nadia Hotel Nadia is lovely - the staff are very friendly and helpful and the rooms are clean ( as a family , we had the ' quad ' which was a bit of a squeeze but the beds were very comfortable and plenty of cupboard space )  .",staff,40,44,SERVICE#GENERAL,Positive,helpful,68,74
+1220,1220: 0,test,"Hotel Nadia Hotel Nadia is lovely - the staff are very friendly and helpful and the rooms are clean ( as a family , we had the ' quad ' which was a bit of a squeeze but the beds were very comfortable and plenty of cupboard space )  .",rooms,84,88,ROOMS#CLEANLINESS,Positive,clean,94,98
+1220,1220: 0,test,"Hotel Nadia Hotel Nadia is lovely - the staff are very friendly and helpful and the rooms are clean ( as a family , we had the ' quad ' which was a bit of a squeeze but the beds were very comfortable and plenty of cupboard space )  .",beds,173,176,ROOM_AMENITIES#COMFORT,Positive,very comfortable,183,198
+1220,1220: 0,test,"Hotel Nadia Hotel Nadia is lovely - the staff are very friendly and helpful and the rooms are clean ( as a family , we had the ' quad ' which was a bit of a squeeze but the beds were very comfortable and plenty of cupboard space )  .",rooms,84,88,ROOMS#DESIGN_FEATURES,Positive,plenty of cupboard space,204,230
+1220,1220: 1,test,The steep stairs might put some people off .,NULL,44,44,HOTEL#DESIGN_FEATURES,Negative,steep stairs might put some people off,4,41
+1220,1220: 2,test,The dining room is also small and tables were not always available for breakfast .,dining room,4,14,FACILITIES#DESIGN_FEATURES,Negative,also small,19,28
+1220,1220: 2,test,The dining room is also small and tables were not always available for breakfast .,dining room,4,14,FACILITIES#GENERAL,Negative,tables were not always available,34,65
+1220,1220: 3,test,Also the central location meant that traffic noise ( and church chimes !  ) were noticeable .,location,17,24,LOCATION#GENERAL,Positive,central,9,15
+1220,1220: 3,test,Also the central location meant that traffic noise ( and church chimes !  ) were noticeable .,location,17,24,HOTEL#COMFORT,Negative,traffic noise (and church chimes!) were noticeable,37,91
+1220,1220: 4,test,But walking distance of many places and right near Ann Frank Museum .,NULL,69,69,LOCATION#GENERAL,Positive,walking distance of many places,4,34
+1220,1220: 4,test,But walking distance of many places and right near Ann Frank Museum .,NULL,69,69,LOCATION#GENERAL,Positive,right near Ann Frank Museum,40,66
+1220,1220: 5,test,Would stay there again .,NULL,24,24,HOTEL#GENERAL,Positive,stay there again,6,21
+1264,1264: 0,test,Beautiful Hotel and Great Staff !,Hotel,10,14,HOTEL#DESIGN_FEATURES,Positive,Beautiful,0,8
+1264,1264: 0,test,Beautiful Hotel and Great Staff !,Staff,26,30,SERVICE#GENERAL,Positive,Great,20,24
+1264,1264: 2,test,The front staff did not even wince or balk at my silly error even though the hotel was just about full to capacity .,front staff,4,14,SERVICE#GENERAL,Positive,not even wince or balk at my silly error,20,59
+1264,1264: 3,test,The person helping me calmly went into the backroom and was gone for perhaps 5 minutes and found a beautiful room for us .,person,4,9,SERVICE#GENERAL,Positive,helping me calmly,11,27
+1264,1264: 3,test,The person helping me calmly went into the backroom and was gone for perhaps 5 minutes and found a beautiful room for us .,room,109,112,ROOMS#GENERAL,Positive,beautiful,99,107
+1264,1264: 4,test,I was stressed initially but his calmness and great customer service put me at ease .,customer service,52,67,SERVICE#GENERAL,Positive,calmness and great,33,50
+1264,1264: 5,test,I will never forget the great service I received at this hotel with the staff exhibiting no condescension whatsover .,service,30,36,SERVICE#GENERAL,Positive,never forget the great,7,28
+1231,1231: 0,test,Hotel in a central location Stayed here for four days in July .,Hotel,0,4,LOCATION#GENERAL,Positive,central location,11,26
+1231,1231: 1,test,"A five minute walk , around the corner and down the hill",NULL,56,56,LOCATION#GENERAL,Positive,"five minute walk, around the corner",2,37
+1231,1231: 3,test,Very clean and well maintained .,NULL,32,32,HOTEL#CLEANLINESS,Positive,Very clean,0,9
+1231,1231: 3,test,Very clean and well maintained .,NULL,32,32,HOTEL#GENERAL,Positive,well maintained,15,29
+1231,1231: 4,test,Would stay here agai,NULL,20,20,HOTEL#GENERAL,Positive,stay here agai,6,19
+1289,1289: 0,test,"Wonderful location We stayed at the Hotel Bigallo on the recommendation of a friend , and were not disappointed .",location,10,17,LOCATION#GENERAL,Positive,Wonderful,0,8
+1289,1289: 0,test,"Wonderful location We stayed at the Hotel Bigallo on the recommendation of a friend , and were not disappointed .",Hotel Bigallo,36,48,HOTEL#GENERAL,Positive,not disappointed,95,110
+1289,1289: 1,test,"It was an easy walk from the train station , even with our luggage , and a great location ( the windows opened up to a very close view of the Duomo )  .",location,81,88,LOCATION#GENERAL,Positive,easy walk from the train station,10,41
+1289,1289: 1,test,"It was an easy walk from the train station , even with our luggage , and a great location ( the windows opened up to a very close view of the Duomo )  .",location,81,88,LOCATION#GENERAL,Positive,great,75,79
+1289,1289: 2,test,It was an easy walk to everything in Florence .,NULL,47,47,LOCATION#GENERAL,Positive,easy walk to everything,10,32
+1289,1289: 3,test,"The room was spacious and attractive , and the breakfast OK .",room,4,7,ROOMS#DESIGN_FEATURES,Positive,spacious,13,20
+1289,1289: 3,test,"The room was spacious and attractive , and the breakfast OK .",room,4,7,ROOMS#GENERAL,Positive,attractive,26,35
+1289,1289: 3,test,"The room was spacious and attractive , and the breakfast OK .",breakfast,47,55,FOOD_DRINKS#QUALITY,Neutral,OK,57,58
+1289,1289: 4,test,"It was noisy outside , even at night ( just shut the windows for quiet )  .",NULL,75,75,ROOMS#COMFORT,Negative,"noisy outside, even at night",7,35
+1289,1289: 5,test,"There was an computer in the lobby you could pay to use for email , etc .",computer,13,20,FACILITIES#GENERAL,Neutral,could pay to use,39,54
+1321,1321: 0,test,What a gem We stayed at this hotel for eight nights in July and it met all our needs and more .,hotel,29,33,HOTEL#GENERAL,Positive,What a gem,0,9
+1321,1321: 1,test,Friends told us that hotel rooms in Paris are small so we booked a Millenium room which is larger .,Millenium room,67,80,ROOMS#DESIGN_FEATURES,Positive,larger,91,96
+1321,1321: 2,test,"It met all our needs - clean , comfortable beds and pillows , air conditioned , very nice bathroom and very friendly multi lingual staff .",NULL,138,138,ROOMS#GENERAL,Positive,met all our needs,3,19
+1321,1321: 2,test,"It met all our needs - clean , comfortable beds and pillows , air conditioned , very nice bathroom and very friendly multi lingual staff .",NULL,138,138,ROOM_AMENITIES#CLEANLINESS,Positive,clean,23,27
+1321,1321: 2,test,"It met all our needs - clean , comfortable beds and pillows , air conditioned , very nice bathroom and very friendly multi lingual staff .",beds and pillows,43,58,ROOM_AMENITIES#COMFORT,Positive,comfortable,31,41
+1321,1321: 2,test,"It met all our needs - clean , comfortable beds and pillows , air conditioned , very nice bathroom and very friendly multi lingual staff .",air conditioned,62,77,ROOM_AMENITIES#GENERAL,Positive,NULL,138,138
+1321,1321: 2,test,"It met all our needs - clean , comfortable beds and pillows , air conditioned , very nice bathroom and very friendly multi lingual staff .",bathroom,90,97,ROOMS#GENERAL,Positive,very nice,80,88
+1321,1321: 2,test,"It met all our needs - clean , comfortable beds and pillows , air conditioned , very nice bathroom and very friendly multi lingual staff .",staff,131,136,SERVICE#GENERAL,Positive,very friendly multi lingual,103,129
+1321,1321: 3,test,I would recommend this hotel to anyone who wanted to stay in Saint Germain de Pres .,Saint Germain de Pres,61,81,HOTEL#GENERAL,Positive,recommend,8,16
+1357,1357: 0,test,"Good hotel , outside city center Large hotel outside city center ( 15 min walk ) on the river Arno .",hotel,5,9,HOTEL#GENERAL,Positive,Good,0,3
+1357,1357: 0,test,"Good hotel , outside city center Large hotel outside city center ( 15 min walk ) on the river Arno .",hotel,5,9,HOTEL#DESIGN_FEATURES,Positive,Large,33,37
+1357,1357: 0,test,"Good hotel , outside city center Large hotel outside city center ( 15 min walk ) on the river Arno .",hotel,5,9,LOCATION#GENERAL,Positive,outside city center (15 min walk) on the river Arn,45,97
+1357,1357: 1,test,"We had a larger room for European standards , but the bathroom was very small and the shower was really small .",room,16,19,ROOMS#DESIGN_FEATURES,Positive,larger,9,14
+1357,1357: 1,test,"We had a larger room for European standards , but the bathroom was very small and the shower was really small .",room,16,19,ROOMS#DESIGN_FEATURES,Positive,European standards,25,42
+1357,1357: 1,test,"We had a larger room for European standards , but the bathroom was very small and the shower was really small .",bathroom,54,61,ROOMS#DESIGN_FEATURES,Negative,very small,67,76
+1357,1357: 1,test,"We had a larger room for European standards , but the bathroom was very small and the shower was really small .",shower,86,91,ROOM_AMENITIES#DESIGN_FEATURES,Negative,really small,97,108
+1357,1357: 3,test,"It was a very quiet night , but service was still slow .",service,32,38,SERVICE#GENERAL,Negative,still slow,44,53
+1357,1357: 4,test,They have paid Internet access in their lobby .,Internet access,15,29,FACILITIES#GENERAL,Positive,NULL,47,47
+1326,1326: 0,test,"wonderfull Wonderfull place , much like the marriot on phuket .",NULL,63,63,HOTEL#GENERAL,Positive,Wonderfull,11,20
+1326,1326: 1,test,"Of course its a big place , not smal and intimate , but even though very nice , much of it because of the pool area who is vinding about in the garden , The beach is nice too .",NULL,176,176,HOTEL#DESIGN_FEATURES,Positive,big,16,18
+1326,1326: 1,test,"Of course its a big place , not smal and intimate , but even though very nice , much of it because of the pool area who is vinding about in the garden , The beach is nice too .",NULL,176,176,HOTEL#DESIGN_FEATURES,Positive,not smal,28,35
+1326,1326: 1,test,"Of course its a big place , not smal and intimate , but even though very nice , much of it because of the pool area who is vinding about in the garden , The beach is nice too .",NULL,176,176,HOTEL#GENERAL,Positive,intimate,41,48
+1326,1326: 1,test,"Of course its a big place , not smal and intimate , but even though very nice , much of it because of the pool area who is vinding about in the garden , The beach is nice too .",NULL,176,176,HOTEL#GENERAL,Positive,very nice,68,77
+1326,1326: 1,test,"Of course its a big place , not smal and intimate , but even though very nice , much of it because of the pool area who is vinding about in the garden , The beach is nice too .",NULL,176,176,LOCATION#GENERAL,Positive,beach is nice too,157,174
+1326,1326: 1,test,"Of course its a big place , not smal and intimate , but even though very nice , much of it because of the pool area who is vinding about in the garden , The beach is nice too .",pool,106,109,FACILITIES#GENERAL,Positive,very nice,68,77
+1326,1326: 2,test,"Delicius rooms , flatscreen tv , nice bath rooms , but tub and shower in one , with very high ends , so you almost have to climb , not that easy .",rooms,9,13,ROOMS#GENERAL,Positive,Delicius,0,7
+1326,1326: 2,test,"Delicius rooms , flatscreen tv , nice bath rooms , but tub and shower in one , with very high ends , so you almost have to climb , not that easy .",flatscreen tv,17,29,ROOM_AMENITIES#GENERAL,Positive,Delicius,0,7
+1326,1326: 2,test,"Delicius rooms , flatscreen tv , nice bath rooms , but tub and shower in one , with very high ends , so you almost have to climb , not that easy .",bath rooms,38,48,ROOMS#GENERAL,Positive,nice,33,36
+1326,1326: 2,test,"Delicius rooms , flatscreen tv , nice bath rooms , but tub and shower in one , with very high ends , so you almost have to climb , not that easy .",tub and shower,55,68,ROOM_AMENITIES#DESIGN_FEATURES,Negative,very high ends,84,98
+1326,1326: 3,test,"The pool / pools is lovely , and there ig a very high level of service everywhere .",pool/pools,4,15,FACILITIES#GENERAL,Positive,lovely,20,26
+1326,1326: 3,test,"The pool / pools is lovely , and there ig a very high level of service everywhere .",service,63,69,SERVICE#GENERAL,Positive,very high level,44,58
+1326,1326: 4,test,"Beautyfull lobby area , and a nice spa .",lobby,11,15,FACILITIES#GENERAL,Positive,Beautyfull,0,9
+1326,1326: 4,test,"Beautyfull lobby area , and a nice spa .",spa,35,37,FACILITIES#GENERAL,Positive,nice,30,33
+1326,1326: 5,test,"Breakfast god , with a person only to make the juice you wa",Breakfast,0,8,FOOD_DRINKS#QUALITY,Positive,god,10,12
+1352,1352: 0,test,Loved the Fairmont !  !,Fairmont,10,17,HOTEL#GENERAL,Positive,Loved,0,4
+1352,1352: 2,test,"Great rooms , great service , and the humps that carried my luggage were little soldiers .",rooms,6,10,ROOMS#GENERAL,Positive,Great,0,4
+1352,1352: 2,test,"Great rooms , great service , and the humps that carried my luggage were little soldiers .",service,20,26,SERVICE#GENERAL,Positive,great,14,18
+1352,1352: 2,test,"Great rooms , great service , and the humps that carried my luggage were little soldiers .",service,20,26,SERVICE#GENERAL,Positive,little soldiers,73,88
+1301,1301: 0,test,Great location,location,6,13,LOCATION#GENERAL,Positive,Great,0,4
+1301,1301: 3,test,Excellent locationNice continental breakfast in morningSpacious floor plan in rooms with king bedNeat blowfish in lobby who follows people ! Cons :,location,10,17,LOCATION#GENERAL,Positive,Excellent,0,8
+1301,1301: 3,test,Excellent locationNice continental breakfast in morningSpacious floor plan in rooms with king bedNeat blowfish in lobby who follows people ! Cons :,breakfast,35,43,FOOD_DRINKS#QUALITY,Positive,Nice continental,18,33
+1301,1301: 3,test,Excellent locationNice continental breakfast in morningSpacious floor plan in rooms with king bedNeat blowfish in lobby who follows people ! Cons :,rooms,78,82,ROOMS#DESIGN_FEATURES,Positive,Spacious floor,55,68
+1301,1301: 4,test,Weird smell in roomsSlow jerky,room,15,18,ROOMS#CLEANLINESS,Negative,Weird smell,0,10
+1301,1301: 5,test,elevatorVery limited parking ( especially in alley ) Construction near locationBathroom old and not kep,parking,21,27,FACILITIES#GENERAL,Negative,Very limited,8,19
+1301,1301: 5,test,elevatorVery limited parking ( especially in alley ) Construction near locationBathroom old and not kep,Bathroom,79,86,ROOMS#GENERAL,Negative,old,88,90
+1206,1206: 0,test,A great location ( especially for new years eve !  ),location,8,15,LOCATION#GENERAL,Positive,great,2,6
+1206,1206: 2,test,The location of the hotel is perfect and you don ' t have to stand for hours in the crowds to watch the ball drop as there is a space made available for the hotel clients at 11 . 30 pm !,location,4,11,LOCATION#GENERAL,Positive,perfect,29,35
+1206,1206: 3,test,The location is also good for all the sightseeing and shopping .,location,4,11,LOCATION#GENERAL,Positive,also good,16,24
+1206,1206: 4,test,The hotel itself is okay - the rooms are expensive for what they are,hotel,4,8,HOTEL#GENERAL,Positive,okay,20,23
+1206,1206: 4,test,The hotel itself is okay - the rooms are expensive for what they are,rooms,31,35,ROOMS#PRICES,Negative,expensive,41,49
+1314,1314: 0,test,"fantastic , love this hotel I have stayed at the Hughendon Hotel every year for the past 8 years and wouldn ' t stay anywhere else , it is like a home away from home .",Hughendon Hotel,49,63,HOTEL#GENERAL,Positive,fantastic,0,8
+1314,1314: 0,test,"fantastic , love this hotel I have stayed at the Hughendon Hotel every year for the past 8 years and wouldn ' t stay anywhere else , it is like a home away from home .",Hughendon Hotel,49,63,HOTEL#GENERAL,Positive,love,12,15
+1314,1314: 1,test,"The character of the place is unique and enchanting with its artwork , antiques and friendly atmosphere .",NULL,105,105,HOTEL#GENERAL,Positive,unique and enchanting,30,50
+1314,1314: 2,test,"The hotel is in a wonderful location , within walking distance to all the best shops and galleries .",hotel,4,8,LOCATION#GENERAL,Positive,wonderful location,18,35
+1314,1314: 2,test,"The hotel is in a wonderful location , within walking distance to all the best shops and galleries .",hotel,4,8,LOCATION#GENERAL,Positive,within walking distance to all the best shops,39,83
+1314,1314: 3,test,The staff are always helpful and friendly and nothing is ever too much trouble .,staff,4,8,SERVICE#GENERAL,Positive,always helpful,14,27
+1314,1314: 3,test,The staff are always helpful and friendly and nothing is ever too much trouble .,staff,4,8,SERVICE#GENERAL,Positive,friendly,33,40
+1314,1314: 4,test,"Victor , the piano man is another highlight .",Victor,0,5,HOTEL#MISCELLANEOUS,Positive,NULL,45,45
+1314,1314: 5,test,I cannot say enough good things about this place .,NULL,50,50,HOTEL#GENERAL,Neutral,cannot say enough good things,2,30
+1236,1236: 2,test,The hotel was everything we needed !,hotel,4,8,HOTEL#GENERAL,Positive,everything we needed,14,33
+1236,1236: 3,test,"The staff was super friendly , food just fine , beach was wonderful and plenty to do and drink .  .  .",staff,4,8,SERVICE#GENERAL,Positive,super friendly,14,27
+1236,1236: 3,test,"The staff was super friendly , food just fine , beach was wonderful and plenty to do and drink .  .  .",food,31,34,FOOD_DRINKS#QUALITY,Neutral,just fine,36,44
+1236,1236: 3,test,"The staff was super friendly , food just fine , beach was wonderful and plenty to do and drink .  .  .",NULL,102,102,LOCATION#GENERAL,Positive,beach was wonderful,48,66
+1236,1236: 4,test,if i had one complaint it would be the beds were not the best - but just drink more and than they were great !,beds,39,42,ROOM_AMENITIES#GENERAL,Negative,not the best,49,60
+1236,1236: 5,test,I think it is a better place for partying with friends than a romantic gateaway .  .  .,NULL,87,87,HOTEL#GENERAL,Positive,better place for partying,16,40
+1278,1278: 0,test,"Excellent location , basic but clean and comfortable",location,10,17,LOCATION#GENERAL,Positive,Excellent,0,8
+1278,1278: 0,test,"Excellent location , basic but clean and comfortable",NULL,52,52,HOTEL#GENERAL,Positive,basic,21,25
+1278,1278: 0,test,"Excellent location , basic but clean and comfortable",NULL,52,52,HOTEL#CLEANLINESS,Positive,clean,31,35
+1278,1278: 0,test,"Excellent location , basic but clean and comfortable",NULL,52,52,HOTEL#COMFORT,Positive,comfortable,41,51
+1278,1278: 1,test,I stayed at this hotel mainly because of it ' s location and wasn ' t disapointed .,location,48,55,LOCATION#GENERAL,Positive,wasn't disapointed,61,81
+1278,1278: 2,test,"It ' s got a fantastic position in the heart of the gothic quarter a few minutes from the Ramblas , plaza Catalunya and the port .",NULL,130,130,LOCATION#GENERAL,Positive,got a fantastic position,7,30
+1278,1278: 2,test,"It ' s got a fantastic position in the heart of the gothic quarter a few minutes from the Ramblas , plaza Catalunya and the port .",NULL,130,130,LOCATION#GENERAL,Positive,few minutes from the Ramblas,69,97
+1278,1278: 3,test,The room was small and functional but very clean .,room,4,7,ROOMS#DESIGN_FEATURES,Negative,small,13,17
+1278,1278: 3,test,The room was small and functional but very clean .,room,4,7,ROOMS#GENERAL,Positive,functional,23,32
+1278,1278: 3,test,The room was small and functional but very clean .,room,4,7,ROOMS#CLEANLINESS,Positive,very clean,38,47
+1278,1278: 4,test,The hotel was very busy and the breakfast was good .,hotel,4,8,HOTEL#GENERAL,Positive,very busy,14,22
+1278,1278: 4,test,The hotel was very busy and the breakfast was good .,breakfast,32,40,FOOD_DRINKS#QUALITY,Positive,good,46,49
+1278,1278: 5,test,I would stay there again .,NULL,26,26,HOTEL#GENERAL,Positive,would stay there again,2,23
+1216,1216: 0,test,"lovely rooms we upgraded to the corner room , which had a lovely view and lovely room",rooms,7,11,ROOMS#GENERAL,Positive,lovely,0,5
+1216,1216: 0,test,"lovely rooms we upgraded to the corner room , which had a lovely view and lovely room",NULL,85,85,SERVICE#GENERAL,Positive,upgraded to the corner room,16,42
+1216,1216: 0,test,"lovely rooms we upgraded to the corner room , which had a lovely view and lovely room",rooms,7,11,ROOMS#GENERAL,Positive,lovely view,58,68
+1216,1216: 0,test,"lovely rooms we upgraded to the corner room , which had a lovely view and lovely room",rooms,7,11,ROOMS#GENERAL,Positive,lovely,74,79
+1216,1216: 1,test,"the bathroom was very spacious , the bed was nice and comforable . location is ok , nothing near here a taxi to orchard road will cost $ 4 singapore dollors , outside the hotel next door the miramar you can catch the city buzz service",bathroom,4,11,ROOMS#DESIGN_FEATURES,Positive,very spacious,17,29
+1216,1216: 1,test,"the bathroom was very spacious , the bed was nice and comforable . location is ok , nothing near here a taxi to orchard road will cost $ 4 singapore dollors , outside the hotel next door the miramar you can catch the city buzz service",bed,37,39,ROOM_AMENITIES#GENERAL,Positive,nice,45,48
+1216,1216: 1,test,"the bathroom was very spacious , the bed was nice and comforable . location is ok , nothing near here a taxi to orchard road will cost $ 4 singapore dollors , outside the hotel next door the miramar you can catch the city buzz service",bed,37,39,ROOM_AMENITIES#COMFORT,Positive,comforable,54,63
+1216,1216: 1,test,"the bathroom was very spacious , the bed was nice and comforable . location is ok , nothing near here a taxi to orchard road will cost $ 4 singapore dollors , outside the hotel next door the miramar you can catch the city buzz service",location,67,74,LOCATION#GENERAL,Neutral,ok,80,81
+1216,1216: 1,test,"the bathroom was very spacious , the bed was nice and comforable . location is ok , nothing near here a taxi to orchard road will cost $ 4 singapore dollors , outside the hotel next door the miramar you can catch the city buzz service",location,67,74,LOCATION#GENERAL,Negative,nothing near here,84,100
+1216,1216: 3,test,the buffet in the hotel is ok,buffet,4,9,FOOD_DRINKS#QUALITY,Neutral,ok,27,28
+1216,1216: 4,test,"but expensive . the jaccuzi is gorgeous , nice pool and garden .",jaccuzi,20,26,ROOM_AMENITIES#DESIGN_FEATURES,Positive,gorgeous,31,39
+1216,1216: 4,test,"but expensive . the jaccuzi is gorgeous , nice pool and garden .",pool,47,50,FACILITIES#GENERAL,Positive,nice,42,45
+1216,1216: 4,test,"but expensive . the jaccuzi is gorgeous , nice pool and garden .",garden,56,62,FACILITIES#GENERAL,Positive,nice,42,45
+1216,1216: 5,test,the hotel has a free shuttle bus service to orchard rd and chinatown .,shuttle bus service,21,39,FACILITIES#PRICES,Positive,free,16,19
+1325,1325: 0,test,"Good Place , Bad Service Nice hotel , really clean , very near the train station , stores everywhere .",hotel,30,34,HOTEL#GENERAL,Positive,Good,0,3
+1325,1325: 0,test,"Good Place , Bad Service Nice hotel , really clean , very near the train station , stores everywhere .",hotel,30,34,HOTEL#GENERAL,Positive,Nice,25,28
+1325,1325: 0,test,"Good Place , Bad Service Nice hotel , really clean , very near the train station , stores everywhere .",Service,17,23,SERVICE#GENERAL,Negative,Bad,13,15
+1325,1325: 0,test,"Good Place , Bad Service Nice hotel , really clean , very near the train station , stores everywhere .",hotel,30,34,HOTEL#CLEANLINESS,Positive,really clean,38,50
+1325,1325: 0,test,"Good Place , Bad Service Nice hotel , really clean , very near the train station , stores everywhere .",hotel,30,34,LOCATION#GENERAL,Positive,very near the train station,53,80
+1325,1325: 1,test,"Service is terrible , though !",Service,0,6,SERVICE#GENERAL,Negative,terrible,11,18
+1325,1325: 2,test,Their keycards get quite defective .,NULL,36,36,ROOMS#QUALITY,Negative,keycards get quite defective,6,33
+1325,1325: 3,test,I visited the concierge only to have this man rudely point me to the reception desk with this impossibly long line of people checking in .,concierge,14,22,SERVICE#GENERAL,Negative,rudely point me to the reception desk,46,82
+1325,1325: 5,test,HORRIBLE SERVICE !,SERVICE,9,15,SERVICE#GENERAL,Negative,HORRIBLE,0,7
+1286,1286: 0,test,"ute hotel , some construction , but comfortable and great value !",hotel,4,8,HOTEL#GENERAL,Positive,ute,0,2
+1286,1286: 0,test,"ute hotel , some construction , but comfortable and great value !",hotel,4,8,HOTEL#COMFORT,Positive,comfortable,36,46
+1286,1286: 0,test,"ute hotel , some construction , but comfortable and great value !",hotel,4,8,HOTEL#PRICES,Positive,great value,52,63
+1286,1286: 2,test,It was a great location due to it being a bit off the beaten path from the business of the city yet close enough to walk everywhere,location,15,22,LOCATION#GENERAL,Positive,great,9,13
+1286,1286: 2,test,It was a great location due to it being a bit off the beaten path from the business of the city yet close enough to walk everywhere,location,15,22,LOCATION#GENERAL,Positive,close enough to walk everywhere,100,130
+1286,1286: 4,test,"The rooms are incredibly large and for the price that we paid , we felt that we got a great bang for our buck !",rooms,4,8,ROOMS#DESIGN_FEATURES,Positive,incredibly large,14,29
+1286,1286: 4,test,"The rooms are incredibly large and for the price that we paid , we felt that we got a great bang for our buck !",rooms,4,8,ROOMS#PRICES,Positive,got a great bang for our buck,80,108
+1286,1286: 5,test,"The comforter on the bed was really scratchy , and the front entrance to the hotel was under contstruction , but other than that , I would definitely reccomend this place to my friends and other travelers .",comforter,4,12,ROOM_AMENITIES#COMFORT,Negative,bed was really scratchy,21,43
+1286,1286: 5,test,"The comforter on the bed was really scratchy , and the front entrance to the hotel was under contstruction , but other than that , I would definitely reccomend this place to my friends and other travelers .",hotel,77,81,HOTEL#GENERAL,Negative,under contstruction,87,105
+1286,1286: 5,test,"The comforter on the bed was really scratchy , and the front entrance to the hotel was under contstruction , but other than that , I would definitely reccomend this place to my friends and other travelers .",hotel,77,81,HOTEL#GENERAL,Positive,definitely reccomend,139,158
+1227,1227: 1,test,My husband and I had wonderful stay - staff were at their best as always .,NULL,74,74,HOTEL#GENERAL,Positive,had wonderful stay,17,34
+1227,1227: 1,test,My husband and I had wonderful stay - staff were at their best as always .,staff,38,42,SERVICE#GENERAL,Positive,best as always,58,71
+1227,1227: 2,test,The food was excellent .,food,4,7,FOOD_DRINKS#QUALITY,Positive,excellent,13,21
+1227,1227: 3,test,We enjoyed ourselves at the SPA and Fitness Center .,SPA,28,30,FACILITIES#GENERAL,Positive,enjoyed,3,9
+1227,1227: 3,test,We enjoyed ourselves at the SPA and Fitness Center .,Fitness Center,36,49,FACILITIES#GENERAL,Positive,enjoyed,3,9
+1227,1227: 4,test,You will not be disppointed !  !,NULL,32,32,HOTEL#GENERAL,Positive,will not be disppointed,4,26
+1293,1293: 0,test,"uldn ' t wait to leave I ' ve usually found the Marriotts to be fairly good , but this one was disappointing and just a notch above a Travel Inn .",Marriotts,48,56,HOTEL#GENERAL,Negative,uldn't wait to leave,0,21
+1293,1293: 0,test,"uldn ' t wait to leave I ' ve usually found the Marriotts to be fairly good , but this one was disappointing and just a notch above a Travel Inn .",Marriotts,48,56,HOTEL#GENERAL,Negative,disappointing,95,107
+1293,1293: 1,test,"Location was ok , but not central , as it was a good 15 - minute walk to Dam Square and the Centraal Station .",Location,0,7,LOCATION#GENERAL,Neutral,ok,13,14
+1293,1293: 1,test,"Location was ok , but not central , as it was a good 15 - minute walk to Dam Square and the Centraal Station .",Location,0,7,LOCATION#GENERAL,Negative,not central,22,32
+1293,1293: 1,test,"Location was ok , but not central , as it was a good 15 - minute walk to Dam Square and the Centraal Station .",Location,0,7,LOCATION#GENERAL,Neutral,good 15-minute walk to Dam Square,48,82
+1293,1293: 2,test,The hotel had absolutely no character whatsoever ; the lobby was uninviting ; and the food in both the breakfast and the bar restaurants was only just ok .,hotel,4,8,HOTEL#GENERAL,Negative,absolutely no character,14,36
+1293,1293: 2,test,The hotel had absolutely no character whatsoever ; the lobby was uninviting ; and the food in both the breakfast and the bar restaurants was only just ok .,lobby,55,59,FACILITIES#DESIGN_FEATURES,Negative,uninviting,65,74
+1293,1293: 2,test,The hotel had absolutely no character whatsoever ; the lobby was uninviting ; and the food in both the breakfast and the bar restaurants was only just ok .,breakfast,103,111,FOOD_DRINKS#QUALITY,Neutral,only just ok,141,153
+1293,1293: 3,test,"The room was a good size , and the furnishings looked relatively new and comfortable , but there was a strong drainage smell in the bathroom all the time , and there was a fizzing electrical sound all through the night , which only went away when it was drowned out by the loud air con .",room,4,7,ROOMS#DESIGN_FEATURES,Positive,good size,15,23
+1293,1293: 3,test,"The room was a good size , and the furnishings looked relatively new and comfortable , but there was a strong drainage smell in the bathroom all the time , and there was a fizzing electrical sound all through the night , which only went away when it was drowned out by the loud air con .",furnishings,35,45,ROOM_AMENITIES#DESIGN_FEATURES,Positive,relatively new,54,67
+1293,1293: 3,test,"The room was a good size , and the furnishings looked relatively new and comfortable , but there was a strong drainage smell in the bathroom all the time , and there was a fizzing electrical sound all through the night , which only went away when it was drowned out by the loud air con .",furnishings,35,45,ROOM_AMENITIES#COMFORT,Positive,comfortable,73,83
+1293,1293: 3,test,"The room was a good size , and the furnishings looked relatively new and comfortable , but there was a strong drainage smell in the bathroom all the time , and there was a fizzing electrical sound all through the night , which only went away when it was drowned out by the loud air con .",bathroom,132,139,ROOMS#CLEANLINESS,Negative,strong drainage smell,103,123
+1293,1293: 3,test,"The room was a good size , and the furnishings looked relatively new and comfortable , but there was a strong drainage smell in the bathroom all the time , and there was a fizzing electrical sound all through the night , which only went away when it was drowned out by the loud air con .",room,4,7,ROOMS#COMFORT,Negative,fizzing electrical sound all through the night,172,218
+1293,1293: 3,test,"The room was a good size , and the furnishings looked relatively new and comfortable , but there was a strong drainage smell in the bathroom all the time , and there was a fizzing electrical sound all through the night , which only went away when it was drowned out by the loud air con .",air con,278,285,ROOM_AMENITIES#COMFORT,Negative,loud,273,276
+1293,1293: 4,test,"When I mentioned this to the reception staff at check - out , they weren ' t interested and didn ' t even comment .",reception staff,29,43,SERVICE#GENERAL,Negative,weren't interested,67,86
+1293,1293: 5,test,Only go if you get a very cheap rate as you can get this sort of mediocrity anywhere .,NULL,86,86,HOTEL#PRICES,Positive,very cheap rate,21,35
+1411,1411: 0,test,My second home I was welcomed again very friendly and warm .,NULL,60,60,SERVICE#GENERAL,Positive,welcomed again very friendly and warm,21,57
+1411,1411: 2,test,"Nadia is a very nice and familial hotel , they fulfilled all my wishes , helped and gave very good hints of Amsterdam .",Nadia,0,4,HOTEL#GENERAL,Positive,very nice,11,19
+1411,1411: 2,test,"Nadia is a very nice and familial hotel , they fulfilled all my wishes , helped and gave very good hints of Amsterdam .",Nadia,0,4,HOTEL#GENERAL,Positive,familial,25,32
+1411,1411: 2,test,"Nadia is a very nice and familial hotel , they fulfilled all my wishes , helped and gave very good hints of Amsterdam .",Nadia,0,4,SERVICE#GENERAL,Positive,fulfilled all my wishes,47,69
+1411,1411: 3,test,My next stay in Amsterdam is for sure again at Nadia Hotel .,Nadia Hotel,47,57,HOTEL#GENERAL,Positive,sure again,33,42
+1345,1345: 0,test,Great little place Good quality and value hotel .,hotel,42,46,HOTEL#DESIGN_FEATURES,Positive,Great little,0,11
+1345,1345: 0,test,Great little place Good quality and value hotel .,hotel,42,46,HOTEL#QUALITY,Positive,Good quality and value,19,40
+1345,1345: 1,test,"Rooms are clean and attractive for the price , and the bathrooms are very good .",Rooms,0,4,ROOMS#CLEANLINESS,Positive,clean,10,14
+1345,1345: 1,test,"Rooms are clean and attractive for the price , and the bathrooms are very good .",Rooms,0,4,ROOMS#PRICES,Positive,attractive for the price,20,43
+1345,1345: 1,test,"Rooms are clean and attractive for the price , and the bathrooms are very good .",bathrooms,55,63,ROOMS#GENERAL,Positive,very good,69,77
+1345,1345: 2,test,Breakfast buffet is value for money and good too !,Breakfast buffet,0,15,FOOD_DRINKS#PRICES,Positive,value for money,20,34
+1345,1345: 2,test,Breakfast buffet is value for money and good too !,Breakfast buffet,0,15,FOOD_DRINKS#QUALITY,Positive,good too,40,47
+1345,1345: 3,test,As it ' s near to the train station the area is just ' average ' but it ' s a close walk to all the things you want to see,NULL,122,122,LOCATION#GENERAL,Positive,near to the train station,10,34
+1345,1345: 3,test,As it ' s near to the train station the area is just ' average ' but it ' s a close walk to all the things you want to see,NULL,122,122,LOCATION#GENERAL,Positive,close walk to all the things,78,105
+1345,1345: 5,test,"Overall , very good and would stay there again .",NULL,48,48,HOTEL#GENERAL,Positive,very good,10,18
+1345,1345: 5,test,"Overall , very good and would stay there again .",NULL,48,48,HOTEL#GENERAL,Positive,would stay there again,24,45
